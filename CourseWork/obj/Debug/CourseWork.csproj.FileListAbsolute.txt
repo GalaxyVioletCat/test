@@ -1,0 +1,40 @@
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\bin\Debug\CourseWork.exe.config
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\bin\Debug\CourseWork.exe
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\bin\Debug\CourseWork.pdb
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.Form1.resources
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.Properties.Resources.resources
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.exe
+c:\C#\ModelingSolidWorks\CourseWork\Lab8\obj\Debug\CourseWork.pdb
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+c:\C#\ModelingSolidWorks\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\bin\Debug\CourseWork.exe.config
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\bin\Debug\CourseWork.exe
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\bin\Debug\CourseWork.pdb
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.Form1.resources
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.exe
+c:\C#\ModelingSolidWorks\new_lab8\CourseWork\obj\Debug\CourseWork.pdb
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.Form1.resources
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.exe
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\obj\Debug\CourseWork.pdb
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\bin\Debug\CourseWork.exe.config
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\bin\Debug\CourseWork.exe
+D:\1 Mag 1 sem\Vodka\new_lab8\CourseWork\bin\Debug\CourseWork.pdb

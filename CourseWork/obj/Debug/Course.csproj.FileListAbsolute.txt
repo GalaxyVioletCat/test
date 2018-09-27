@@ -1,0 +1,9 @@
+C:\C#\ModelingSolidWorks\Course\Course\bin\Debug\Course.exe.config
+C:\C#\ModelingSolidWorks\Course\Course\bin\Debug\Course.exe
+C:\C#\ModelingSolidWorks\Course\Course\bin\Debug\Course.pdb
+C:\C#\ModelingSolidWorks\Course\Course\obj\Debug\Course.Form1.resources
+C:\C#\ModelingSolidWorks\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\C#\ModelingSolidWorks\Course\Course\obj\Debug\Course.csproj.GenerateResource.Cache
+C:\C#\ModelingSolidWorks\Course\Course\obj\Debug\Course.exe
+C:\C#\ModelingSolidWorks\Course\Course\obj\Debug\Course.pdb
+C:\C#\ModelingSolidWorks\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache

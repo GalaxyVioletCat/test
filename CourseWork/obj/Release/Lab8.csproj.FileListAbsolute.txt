@@ -1,0 +1,10 @@
+c:\C#\ModelingSolidWorks\Lab8\Lab8\bin\Release\Lab8.exe.config
+c:\C#\ModelingSolidWorks\Lab8\Lab8\bin\Release\Lab8.exe
+c:\C#\ModelingSolidWorks\Lab8\Lab8\bin\Release\Lab8.pdb
+c:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.csprojResolveAssemblyReference.cache
+c:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.Form1.resources
+c:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.Properties.Resources.resources
+c:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.csproj.GenerateResource.Cache
+c:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.exe
+c:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.pdb
+C:\C#\ModelingSolidWorks\Lab8\Lab8\obj\Release\Lab8.csproj.CoreCompileInputs.cache

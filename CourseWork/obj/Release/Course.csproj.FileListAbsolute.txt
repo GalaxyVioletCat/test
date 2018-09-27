@@ -1,0 +1,12 @@
+c:\C#\ModelingSolidWorks\Course\Course\bin\Release\Course.exe.config
+c:\C#\ModelingSolidWorks\Course\Course\bin\Release\Course.exe
+c:\C#\ModelingSolidWorks\Course\Course\bin\Release\Course.pdb
+c:\C#\ModelingSolidWorks\Course\Course\obj\Release\Course.csprojResolveAssemblyReference.cache
+c:\C#\ModelingSolidWorks\Course\Course\obj\Release\Course.Form1.resources
+c:\C#\ModelingSolidWorks\Course\Course\obj\Release\Course.Properties.Resources.resources
+c:\C#\ModelingSolidWorks\Course\Course\obj\Release\Course.csproj.GenerateResource.Cache
+c:\C#\ModelingSolidWorks\Course\Course\obj\Release\Course.exe
+c:\C#\ModelingSolidWorks\Course\Course\obj\Release\Course.pdb
+C:\C#\ModelingSolidWorks\Lab7\Course\bin\Release\Course.exe.config
+C:\C#\ModelingSolidWorks\Lab7\Course\obj\Release\Course.exe
+C:\C#\ModelingSolidWorks\Lab7\Course\obj\Release\Course.pdb
